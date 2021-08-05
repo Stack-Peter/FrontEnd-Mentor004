@@ -1,5 +1,7 @@
 # Frontend Mentor - FAQ accordion card
 
+link challenge solved! https://condescending-swirles-194ebe.netlify.app
+
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
